@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+scikit-learn
+xgboost
+transformers
+torch
+torchvision
+tldextract
+web3
+reportlab
+shap
+pyyaml
